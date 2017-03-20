@@ -1,0 +1,50 @@
+body{
+  background-image: url("/home/bootcamp/projects/matching_days/white-blanket.jpeg");
+}
+
+h1 {
+  font-size: 9em;
+  text-align: center;
+  border: solid;
+  border-radius: 31px;
+  margin-top: 1px;
+}
+p {
+  border: solid;
+  width: 5em;
+  text-align: center;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 31px;
+}
+fieldset {
+  text-align: center;
+  border-radius: 31px;
+}
+.style1{
+  border: solid;
+  width: 5em;
+  text-align: center;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 31px;
+  background-color: yellow;
+}
+.style2{
+  border: solid;
+  width: 5em;
+  text-align: center;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 31px;
+  background-color: green;
+}
+.style3{
+  border: solid;
+  width: 5em;
+  text-align: center;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 31px;
+  background-color: blue;
+}
